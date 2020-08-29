@@ -1,7 +1,7 @@
 {
 "posts":[
 {"username":"karthikeyan", "email": "karthikeyan.purplematics@gmail.com", "password": "welcome", "confirmpassword": "welcome", "acceptterms": "false"}
-],
+], 
   "comments":[
 {"username":"karthikeyan", "email": "karthikeyan.purplematics@gmail.com", "password": "welcome", "confirmpassword": "welcome", "acceptterms": "false"}
 ]
